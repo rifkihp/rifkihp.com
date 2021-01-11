@@ -109,7 +109,7 @@ Switched to a new branch 'new-branch'
 ```
 ```shell-session
 $ g lo
-Author: Rifki Heruprasetyo <rifki.rhp@gmail.com>
+Author: Rifki Hp <rifki.rhp@gmail.com>
 Date:   Mon Aug 26 01:16:49 2019 -0700
 
     Bump version to 1.1.1
@@ -119,7 +119,7 @@ Date:   Mon Aug 26 01:16:49 2019 -0700
 
 Maybe? Depends on the person. It'll save you a little time if you're like me and do weird stuff like habitually spam "git status":
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">what weird habits do you have?<br><br>something I&#39;ve recently realized I do a lot: spamming &quot;git status&quot; and clearing my terminal <a href="https://t.co/LYlwM9hFAB">pic.twitter.com/LYlwM9hFAB</a></p>&mdash; Rifki Heruprasetyo (@victorczhou) <a href="https://twitter.com/victorczhou/status/1173059464036962305?ref_src=twsrc%5Etfw">September 15, 2019</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">what weird habits do you have?<br><br>something I&#39;ve recently realized I do a lot: spamming &quot;git status&quot; and clearing my terminal <a href="https://t.co/LYlwM9hFAB">pic.twitter.com/LYlwM9hFAB</a></p>&mdash; Rifki Hp (@victorczhou) <a href="https://twitter.com/victorczhou/status/1173059464036962305?ref_src=twsrc%5Etfw">September 15, 2019</a></blockquote>
 
 My opinion is that it's a small price to pay (~30 seconds of setup on each new machine) for a nice quality of life improvement that makes you feel fast and efficient. How much time you _actually_ save is debatable though...
 

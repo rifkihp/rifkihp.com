@@ -5,7 +5,7 @@ module.exports = {
   title: 'rifkihp.com',
   subtitle:
     'Software Developer. I blog about web development, android apps, and more topics.',
-  copyright: '© Rifki Heruprasetyo 2020',
+  copyright: '© Rifki Hp 2020',
   postsPerPage: 8,
   googleAnalyticsId: 'UA-___-1',
   menu: [
@@ -27,7 +27,7 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Rifki Heruprasetyo',
+    name: 'Rifki Hp',
     photo: '/photo.png',
     photoLarge: '/photo-large.png',
     bio:

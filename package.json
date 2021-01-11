@@ -21,7 +21,7 @@
     "test:watch": "jest --watch --config ./tests/jest-config.js"
   },
   "repository": "https://github.com/rifkihp/rifkihp.com",
-  "author": "Rifki Heruprasetyo <rifki.rhp@gmail.com>",
+  "author": "Rifki Hp <rifki.rhp@gmail.com>",
   "license": "MIT",
   "keywords": [],
   "dependencies": {
