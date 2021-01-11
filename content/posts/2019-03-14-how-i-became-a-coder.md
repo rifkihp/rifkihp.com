@@ -30,6 +30,6 @@ I ended up actually finding a way to make games without writing code: [GameMaker
 
 Despite my ambitions, I eventually realized that you can't actually do much without writing code. Luckily, GameMaker supported a proprietary programming language called the [GameMaker Language](https://docs.yoyogames.com/source/dadiospice/002_reference/001_gml%20language%20overview/) (GML) that had lots of examples and tutorials for it online. I reluctantly decided to learn a bit of GML so I could make more advanced games (read: Runescape). Those were my first `if` statements and `for` loops! That's right. **My first programming language was GML**. 😲
 
-Ever since those first few lines of GML, I've been hooked. In 9th grade, I began making iOS apps and competing in programming competitions. Out of high school, I landed my first software engineering internship and started more seriously pursuing a career in tech. In college, I got into web development and sold my first website.
+Ever since those first few lines of GML, I've been hooked. In 9th grade, I began making iOS apps and competing in programming competitions. Out of high school, I landed my first Software Developering internship and started more seriously pursuing a career in tech. In college, I got into web development and sold my first website.
 
 To summarize: I've spent a decade learning and building and _still_ haven't taken down Runescape 😡. I guess everyone has their white whale...

@@ -49,7 +49,7 @@ That developers have largely embraced these changes and the services the cloud p
 
 ## Moving to the Cloud More Quickly
 
-Meanwhile, many companies are [moving their software engineers completely to the cloud](https://cloudacademy.com/blog/cloud-migration-benefits-risks/), at least temporarily. In light of the ongoing pandemic, cloud platforms have proved advantageous for many companies who now must rely on employees working remotely. The cloud has allowed programmers to keep working and companies to continue to operate, even during this very uncertain period.
+Meanwhile, many companies are [moving their Software Developers completely to the cloud](https://cloudacademy.com/blog/cloud-migration-benefits-risks/), at least temporarily. In light of the ongoing pandemic, cloud platforms have proved advantageous for many companies who now must rely on employees working remotely. The cloud has allowed programmers to keep working and companies to continue to operate, even during this very uncertain period.
 
 For some companies, this is old hat. As a fully-distributed company, automation software specialist Zapier has hundreds of remote employees over 17 time zones and 28 countries. It utilized the cloud to enable its team members to continue to collaborate via Zoom, Slack, and Quip.
 
@@ -87,7 +87,7 @@ It’s making technology more accessible. Just like these things:
 
 Even with Google, you could argue that it’s democratizing knowledge through allowing free access to information, along with advertising through its PPC platform, which has helped it achieve a worth of more than a trillion dollars.
 
-Vlad Magdalin – CEO and co-founder of Webflow, a platform that helps people build websites without coding – states this, “No-code allows people who don’t know how to write code to develop the same applications that a software engineer would.”
+Vlad Magdalin – CEO and co-founder of Webflow, a platform that helps people build websites without coding – states this, “No-code allows people who don’t know how to write code to develop the same applications that a Software Developer would.”
 
 In a sense, it’s just a form of visual programming. [User interfaces allow you to manipulate code ](https://medium.com/@PhiJay/code-is-a-user-interface-daeff886a440)through dragging and dropping elements rather than using text-based environments.
 
@@ -97,7 +97,7 @@ As a writer, it’s like the difference between writing a paragraph or using a s
 
 In a sense, no-code programming is simply another step in the evolution of software development. As assembly language transformed into Python, Java, C, JavaScript, and other languages to create abstractions that would overlay machine code, this evolution will only make programming easier for software developers.
 
-Early iterations of this even appeared in the 1990s, such as computer-aided software engineering (CASE) tools. Adobe’s Dreamweaver and Microsoft’s Visual Basic – both of which require coding knowledge – are the precursors of the no-coding tools available today.
+Early iterations of this even appeared in the 1990s, such as computer-aided Software Developering (CASE) tools. Adobe’s Dreamweaver and Microsoft’s Visual Basic – both of which require coding knowledge – are the precursors of the no-coding tools available today.
 
 But software developers needn’t fear that they’ll become obsolete.
 

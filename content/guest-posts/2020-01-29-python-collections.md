@@ -38,9 +38,9 @@ from collections import namedtuple
 
 Employee = namedtuple('Employee', 'id name role')
 
-john = Employee(id=10, name='John', role='Software Engineer')
+john = Employee(id=10, name='John', role='Software Developer')
 
-# Employee(id=10, name='John', role='Software Engineer')
+# Employee(id=10, name='John', role='Software Developer')
 print(john)
 ```
 
@@ -56,7 +56,7 @@ print(john.name)
 # John
 print(john[1])
 
-# Software Engineer
+# Software Developer
 print(john[2])
 ```
 

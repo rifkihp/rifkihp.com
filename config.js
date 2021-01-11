@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://rifkihp.com',
   title: 'rifkihp.com',
   subtitle:
-    'Software Engineer. I blog about web development, android apps, and more topics.',
+    'Software Developer. I blog about web development, android apps, and more topics.',
   copyright: '© Rifki Heruprasetyo 2020',
   postsPerPage: 8,
   googleAnalyticsId: 'UA-___-1',
